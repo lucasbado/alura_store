@@ -10,10 +10,6 @@ O notebook `AluraStoreBrasil (2).ipynb` aborda as seguintes etapas de análise:
 
 ### 1. Análise do Faturamento
 Calcula o **Faturamento Total** de cada loja com base na coluna `Preço`:
-* **Loja 1:** R$ 1.534.509,12
-* **Loja 2:** R$ 1.488.459,06
-* **Loja 3:** R$ 1.464.025,03
-* **Loja 4:** R$ 1.384.497,58
 
 ### 2. Análise da Quantidade de Produtos Vendidos
 Analisa a **quantidade total de produtos vendidos** por loja e detalha o volume de vendas por `Categoria do Produto`. As categorias **moveis** e **eletronicos** destacaram-se consistentemente no volume de vendas em todas as lojas.
@@ -26,16 +22,6 @@ Identifica o top 10 de **Produtos Mais Vendidos** e o top 10 de **Produtos Menos
 
 ### 5. Frete Médio por Loja
 Analisa o **Frete Médio** por loja, um indicador de custo logístico:
-* **Loja 1:** Frete Médio de R$ 39,16
-* **Loja 4:** Frete Médio de R$ 31,01
-
-## Conclusão e Recomendação Estratégica
-
-A análise comparativa entre faturamento e custos logísticos (frete) levou à seguinte conclusão:
-
-> A recomendação é a venda da **Loja 1**. Embora a Loja 1 seja a líder em faturamento (R$ 1.534.509,12), ela também apresenta o **frete médio mais alto (R$ 39,16)**. Este alto custo logístico impacta significativamente a margem de lucro, tornando-a menos atrativa para ser mantida.
->
-> Por outro lado, a **Loja 3** se mostra a mais lucrativa. Mesmo com um faturamento total um pouco menor, ela possui um frete médio mais baixo (R$ 34,04) e um fluxo de vendas mais consistente, inclusive para os produtos de menor saída, garantindo uma margem de lucro mais positiva.
 
 ## Tecnologias Utilizadas
 
